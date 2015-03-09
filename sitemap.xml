@@ -1,11 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://videojuegosunal.github.io/blog/2015/03/08/tarea-para-el-10-de-marzo-de-2015/</loc>
+    <lastmod>2015-03-08T19:09:22-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/blog/2015/03/08/presentacion-del-profesor-oscar-andrade/</loc>
+    <lastmod>2015-03-08T17:41:35-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/blog/2015/03/06/presentacion-del-profesor-mateo-rojas-clase-del-3-de-marzo-de-2015/</loc>
+    <lastmod>2015-03-06T03:15:05-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/blog/2015/02/27/presentacion-del-profesor-mateo-rojas-clase-del-26-de-febrero-de-2015/</loc>
+    <lastmod>2015-02-27T22:20:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/blog/2015/02/27/apuntes-de-la-clase-del-profesor-john-higuera-del-24-de-febrero-de-2015/</loc>
+    <lastmod>2015-02-27T20:16:30-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/blog/2015/02/27/apuntes-de-la-clase-del-19-de-febrero-de-2015-dada-por-el-profesor-john-higuera/</loc>
+    <lastmod>2015-02-27T12:48:53-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/blog/2015/02/18/presentaciones-de-clase-por-el-profesor-john-higuera/</loc>
+    <lastmod>2015-02-18T16:23:34-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/blog/2015/02/18/recursos-por-el-profesor-john-higuera/</loc>
+    <lastmod>2015-02-18T13:15:51-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/blog/2015/02/18/primeros-10-tutoriales-a-realizar-por-el-profesor-john-higuera/</loc>
+    <lastmod>2015-02-18T11:31:31-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/blog/2015/02/10/lo-que-logre-mientras-disfrutaba-pablo-realini/</loc>
+    <lastmod>2015-02-10T21:45:54-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://videojuegosunal.github.io/</loc>
-    <lastmod>2015-03-09T00:05:48-05:00</lastmod>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
   </url>
   <url>
     <loc>http://videojuegosunal.github.io/blog/archives/</loc>
-    <lastmod>2015-03-09T00:05:48-05:00</lastmod>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/recursos/</loc>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/inicio/</loc>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/humanos/</loc>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/software/</loc>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/presentaciones/</loc>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/noticias/</loc>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/enlaces/</loc>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/eventos/</loc>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://videojuegosunal.github.io/tutoriales/</loc>
+    <lastmod>2015-03-09T00:12:18-05:00</lastmod>
   </url>
 </urlset>
