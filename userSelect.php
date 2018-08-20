@@ -7,6 +7,9 @@ $db = "mydb";
 $sql = "select username, email, password from users";
 $result = mysqli_query($connect, $sql);
 
-echo "El número de filas de la tabla users es: ".mysqli_num_rows($result);
-
+if(mysqli_num_rows($result)>0){
+	while($row = mysql_fetch_assoc($result)){
+		echo "username:".$row['username']."|email:".$row['email']."|password:".$row['password'].";";	
+	} 
+}
 ?>
