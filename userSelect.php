@@ -4,6 +4,9 @@ $username = "root"
 $password = "IKPlfz73522";
 $db = "mydb";
 
-echo "fila1";
-echo "fila2";
+$sql = "select username, email, password from users";
+$result = mysqli_query($connect, $sql);
+
+echo "El número de filas de la tabla users es: ".mysqli_num_rows($result);
+
 ?>
